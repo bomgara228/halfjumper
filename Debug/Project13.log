@@ -1,0 +1,8 @@
+﻿  game.cpp
+C:\Users\st\Source\Repos\Project13\Project13\text.h(17,31): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\st\Source\Repos\Project13\Project13\game.cpp(4,37): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+C:\Users\st\Source\Repos\Project13\Project13\game.cpp(4,23): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+C:\Users\st\Source\Repos\Project13\Project13\game.cpp(83,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\st\Source\Repos\Project13\Project13\game.cpp(83,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\st\Source\Repos\Project13\Project13\game.cpp(83,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Project13.vcxproj -> C:\Users\st\Source\Repos\Project13\Debug\Project13.exe
